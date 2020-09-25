@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?php
     $host ="localhost";
     $usuario ="root";
@@ -16,7 +16,7 @@
 
 
 
-=======
+
 <?php
     $host ="localhost";
     $usuario ="root";
@@ -34,5 +34,4 @@
 
 
 
->>>>>>> 25af8b36c1f7c2c6b02ff43eecafbb07c56ccf1b
 ?>
